@@ -14,7 +14,3 @@ After cleaning, the notebook shifts focus to **data visualization**. Although no
 - **Regional Analysis:** Employing charts to compare performance across different regions, highlighting geographical trends.
 - **Correlation Analysis:** Utilizing scatter plots or heatmaps to visualize relationships between numerical variables, which may uncover insights into sales performance and other key metrics.
 
-By combining rigorous data cleaning with insightful visualizations, the project provides a clear, iterative workflow. This approach not only ensures that the dataset is robust and consistent but also enables the identification of trends, patterns, and potential anomalies. The results of the visualization support further analysis and informed decision-making.
-
-Overall, this notebook serves as a solid foundation for subsequent data analysis or modeling efforts, demonstrating proficiency in both data preprocessing and exploratory data analysis.
-
